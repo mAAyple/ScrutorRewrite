@@ -21,11 +21,10 @@ LIST0[10] = ast.literal_eval(LIST0[10])
 LIST0[11] = ast.literal_eval(LIST0[11])
 LIST0[12] = ast.literal_eval(LIST0[12])
 LIST0[13] = ast.literal_eval(LIST0[13])
-"""
-"""
 LIST0[14] = ast.literal_eval(LIST0[14])
 LIST0[15] = ast.literal_eval(LIST0[15])
 """
+
 # ORDER OF SCORE FUNCTIONS AND SUCH
 """
 WITHIN THE FUNCTION:
